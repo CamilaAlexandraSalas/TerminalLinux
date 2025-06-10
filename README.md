@@ -1,12 +1,12 @@
 # 🖥️ Terminal
 
-Una terminal interactiva desarrollada en Bash que permite al usuario acceder con autenticación simulada, consultar información del sistema, ver la fecha y hora actual, buscar archivos y más.
+Una terminal interactiva desarrollada en Bash que permite al usuario acceder a diferentes funciones como consultar información del sistema, ver la fecha y hora actual, buscar archivos y más.
 
 ---
 
 ## 📌 Descripción breve
 
-Este proyecto es una terminal personalizada escrita en Bash, sirve para automatizar funciones básicas del sistema. Ofrece un menú principal desde donde se puede acceder a varias utilidades, como mostrar la información del sistema, consultar fecha y hora, buscar archivos.
+Este proyecto es una terminal personalizada escrita en Bash, sirve para automatizar funciones básicas del sistema. Se puede acceder a varias utilidades, como mostrar la información del sistema, consultar fecha y hora, buscar archivos.
 
 ---
 
