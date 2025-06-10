@@ -1,10 +1,8 @@
 # 🤝 Guía de Contribución
 
-¡Gracias por tu interés en contribuir al proyecto **Terminal Linux**! Esta guía describe cómo puedes colaborar de manera efectiva con el desarrollo del proyecto.
+Guía que describe cómo puedes colaborar de manera efectiva con el desarrollo del proyecto.
 
-## ✅ Contribuciones bienvenidas
-
-Son bienvenidas las siguientes contribuciones:
+## ✅ Contribuciones 
 
 - Corrección de errores en los scripts existentes.
 - Nuevas funcionalidades o mejoras visuales.
@@ -13,8 +11,6 @@ Son bienvenidas las siguientes contribuciones:
 - Nuevas utilidades o scripts útiles.
 
 ## 🔧 Requisitos a instalar
-
-Asegúrate de tener los siguientes elementos en tu entorno antes de contribuir:
 
 - Sistema operativo GNU/Linux.
 - Git instalado.
