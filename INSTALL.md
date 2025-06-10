@@ -9,8 +9,6 @@ Este documento explica paso a paso cómo instalar y configurar el proyecto **Ter
 Antes de comenzar, asegúrate de tener lo siguiente instalado:
 
 - ✅ Un sistema operativo GNU/Linux (Debian, Ubuntu, Arch, etc.)
-- ✅ Bash shell (viene por defecto en la mayoría de distribuciones)
-- ✅ Acceso a la terminal
 - ✅ Git (para clonar el repositorio)
 - ✅ Permisos de ejecución en la terminal
 
