@@ -11,13 +11,13 @@ Registro de cambios del proyecto "Terminal Linux".
 - Script `fecha_hora.sh` para mostrar la fecha y hora actual desde `/proc/driver/rtc`.
 - Script `info_sistema.sh` para mostrar información del sistema, memoria, arquitectura y entorno.
 - Script `salir.sh` con mensaje de despedida personalizado.
-- Archivos `README.md`, `install.md` y `changelog.md`.
+- Archivos `README.md`, `INSTALL.md` y `CHANGELOG.md`.
 
 ### 🔁 Cambiado
 - Ajustes de formato visual (colores, líneas decorativas) en varios scripts.
-- Se modificó el login para adaptarse al usuario `usuario1`, editable por el usuario.
+- Se modificó el login para adaptarse al usuario `usuario1`
 
 ### ❌ Eliminado
-- N/A (ningún elemento eliminado en esta versión inicial).
+- No se ha eliminado ningun elemento 
 
 ---
